@@ -18,6 +18,10 @@ namespace AdventOfCode
                         var report = new DayOne();
                         report.Process();
                         break;
+                    case 2:
+                        var dive = new DayTwo();
+                        dive.Process();
+                        break;
                     case 0:
                         Environment.Exit(0);
                         break;

@@ -10,4 +10,5 @@
  Day|Part 1|Part 2|Source
  -|-|-|-|
 [Day 1: Sonar Sweep](https://adventofcode.com/2021/day/1)|✔️|✔️|[Day one](https://github.com/hlim29/AdventOfCode2021/blob/master/Days/DayOne.cs)|
-[Day 2: Dive!](https://adventofcode.com/2021/day/1)|✔️|✔️|[Day two](https://github.com/hlim29/AdventOfCode2021/blob/master/Days/DayTwo.cs)|
+[Day 2: Dive!](https://adventofcode.com/2021/day/2)|✔️|✔️|[Day two](https://github.com/hlim29/AdventOfCode2021/blob/master/Days/DayTwo.cs)|
+[Day 3: Binary Diagnostic](https://adventofcode.com/2021/day/3)|✔️|✔️|[Day three](https://github.com/hlim29/AdventOfCode2021/blob/master/Days/DayThree.cs)|

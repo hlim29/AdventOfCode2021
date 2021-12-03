@@ -22,6 +22,10 @@ namespace AdventOfCode
                         var dive = new DayTwo();
                         dive.Process();
                         break;
+                    case 3:
+                        var binary = new DayThree();
+                        binary.Process();
+                        break;
                     case 0:
                         Environment.Exit(0);
                         break;

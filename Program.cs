@@ -26,6 +26,10 @@ namespace AdventOfCode
                         var binary = new DayThree();
                         binary.Process();
                         break;
+                    case 4:
+                        var bingo = new DayFour();
+                        bingo.Process();
+                        break;
                     case 0:
                         Environment.Exit(0);
                         break;

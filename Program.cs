@@ -30,6 +30,10 @@ namespace AdventOfCode
                         var bingo = new DayFour();
                         bingo.Process();
                         break;
+                    case 5:
+                        var vents = new DayFive();
+                        vents.Process();
+                        break;
                     case 0:
                         Environment.Exit(0);
                         break;

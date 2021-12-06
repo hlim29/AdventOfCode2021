@@ -34,6 +34,10 @@ namespace AdventOfCode
                         var vents = new DayFive();
                         vents.Process();
                         break;
+                    case 6:
+                        var fishies = new DaySix();
+                        fishies.Process();
+                        break;
                     case 0:
                         Environment.Exit(0);
                         break;

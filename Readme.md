@@ -14,3 +14,4 @@
 [Day 3: Binary Diagnostic](https://adventofcode.com/2021/day/3)|✔️|✔️|[Day three](https://github.com/hlim29/AdventOfCode2021/blob/master/Days/DayThree.cs)|
 [Day 4: Giant Squid](https://adventofcode.com/2021/day/4)|✔️|✔️|[Day four](https://github.com/hlim29/AdventOfCode2021/blob/master/Days/DayFour.cs)|
 [Day 5: Hydrothermal Venture](https://adventofcode.com/2021/day/5)|✔️|✔️|[Day five](https://github.com/hlim29/AdventOfCode2021/blob/master/Days/DayFive.cs)|
+[Day 6: Lanternfish](https://adventofcode.com/2021/day/6)|✔️|✔️|[Day six](https://github.com/hlim29/AdventOfCode2021/blob/master/Days/DaySix.cs)|

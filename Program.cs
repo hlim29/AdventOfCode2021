@@ -38,6 +38,10 @@ namespace AdventOfCode
                         var fishies = new DaySix();
                         fishies.Process();
                         break;
+                    case 7:
+                        var fuel = new DaySeven();
+                        fuel.Process();
+                        break;
                     case 0:
                         Environment.Exit(0);
                         break;

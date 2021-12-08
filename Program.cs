@@ -42,6 +42,10 @@ namespace AdventOfCode
                         var fuel = new DaySeven();
                         fuel.Process();
                         break;
+                    case 8:
+                        var segment = new DayEight();
+                        segment.Process();
+                        break;
                     case 0:
                         Environment.Exit(0);
                         break;

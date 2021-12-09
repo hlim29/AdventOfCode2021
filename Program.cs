@@ -46,6 +46,10 @@ namespace AdventOfCode
                         var segment = new DayEight();
                         segment.Process();
                         break;
+                    case 9:
+                        var basin = new DayNine();
+                        basin.Process();
+                        break;
                     case 0:
                         Environment.Exit(0);
                         break;

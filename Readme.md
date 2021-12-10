@@ -18,3 +18,4 @@
 [Day 7: The Treachery of Whales](https://adventofcode.com/2021/day/7)|✔️|✔️|[Day seven](https://github.com/hlim29/AdventOfCode2021/blob/master/Days/DaySeven.cs)|
 [Day 8: Seven Segment Search](https://adventofcode.com/2021/day/8)|✔️|✔️|[Day eight](https://github.com/hlim29/AdventOfCode2021/blob/master/Days/DayEight.cs)|
 [Day 9: Smoke Basin](https://adventofcode.com/2021/day/9)|✔️|✔️|[Day nine](https://github.com/hlim29/AdventOfCode2021/blob/master/Days/DayNine.cs)|
+[Day 10: Syntax Scoring](https://adventofcode.com/2021/day/10)|✔️|✔️|[Day ten](https://github.com/hlim29/AdventOfCode2021/blob/master/Days/DayTen.cs)|

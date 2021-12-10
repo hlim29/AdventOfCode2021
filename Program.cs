@@ -50,6 +50,10 @@ namespace AdventOfCode
                         var basin = new DayNine();
                         basin.Process();
                         break;
+                    case 10:
+                        var brackets = new DayTen();
+                        brackets.Process();
+                        break;
                     case 0:
                         Environment.Exit(0);
                         break;

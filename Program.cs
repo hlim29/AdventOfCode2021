@@ -54,6 +54,10 @@ namespace AdventOfCode
                         var brackets = new DayTen();
                         brackets.Process();
                         break;
+                    case 11:
+                        var eleven = new DayEleven();
+                        eleven.Process();
+                        break;
                     case 0:
                         Environment.Exit(0);
                         break;

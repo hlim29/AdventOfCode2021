@@ -62,6 +62,10 @@ namespace AdventOfCode
                         var twelve = new DayTwelve();
                         twelve.Process();
                         break;
+                    case 13:
+                        var fold = new DayThirteen();
+                        fold.Process();
+                        break;
                     case 0:
                         Environment.Exit(0);
                         break;

@@ -55,8 +55,12 @@ namespace AdventOfCode
                         brackets.Process();
                         break;
                     case 11:
-                        var eleven = new DayEleven();
-                        eleven.Process();
+                        var flash = new DayEleven();
+                        flash.Process();
+                        break;
+                    case 12:
+                        var twelve = new DayTwelve();
+                        twelve.Process();
                         break;
                     case 0:
                         Environment.Exit(0);

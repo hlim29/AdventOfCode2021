@@ -20,5 +20,5 @@
 [Day 9: Smoke Basin](https://adventofcode.com/2021/day/9)|✔️|✔️|[Day nine](https://github.com/hlim29/AdventOfCode2021/blob/master/Days/DayNine.cs)|
 [Day 10: Syntax Scoring](https://adventofcode.com/2021/day/10)|✔️|✔️|[Day ten](https://github.com/hlim29/AdventOfCode2021/blob/master/Days/DayTen.cs)|
 [Day 11: Dumbo Octopus](https://adventofcode.com/2021/day/11)|✔️|✔️|[Day eleven](https://github.com/hlim29/AdventOfCode2021/blob/master/Days/DayEleven.cs)|
-[Day 12: Passage Pathing](https://adventofcode.com/2021/day/12)|✔️|🤔|[Day twelve](https://github.com/hlim29/AdventOfCode2021/blob/master/Days/DayTwelve.cs)|
+[Day 12: Passage Pathing](https://adventofcode.com/2021/day/12)|✔️|✔️|[Day twelve](https://github.com/hlim29/AdventOfCode2021/blob/master/Days/DayTwelve.cs)|
 [Day 13: Transparent Origami](https://adventofcode.com/2021/day/13)|✔️|✔️|[Day thirteen](https://github.com/hlim29/AdventOfCode2021/blob/master/Days/DayThirteen.cs)|

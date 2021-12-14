@@ -66,6 +66,10 @@ namespace AdventOfCode
                         var fold = new DayThirteen();
                         fold.Process();
                         break;
+                    case 14:
+                        var polymers = new DayFourteen();
+                        polymers.Process();
+                        break;
                     case 0:
                         Environment.Exit(0);
                         break;

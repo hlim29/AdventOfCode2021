@@ -70,6 +70,10 @@ namespace AdventOfCode
                         var polymers = new DayFourteen();
                         polymers.Process();
                         break;
+                    case 15:
+                        var risk = new DayFifteen();
+                        risk.Process();
+                        break;
                     case 0:
                         Environment.Exit(0);
                         break;

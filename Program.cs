@@ -74,6 +74,10 @@ namespace AdventOfCode
                         var risk = new DayFifteen();
                         risk.Process();
                         break;
+                    case 17:
+                        var fire = new DaySeventeen();
+                        fire.Process();
+                        break;
                     case 0:
                         Environment.Exit(0);
                         break;

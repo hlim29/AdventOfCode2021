@@ -78,6 +78,10 @@ namespace AdventOfCode
                         var fire = new DaySeventeen();
                         fire.Process();
                         break;
+                    case 20:
+                        var pixels = new DayTwenty();
+                        pixels.Process();
+                        break;
                     case 0:
                         Environment.Exit(0);
                         break;

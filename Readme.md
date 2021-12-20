@@ -25,3 +25,4 @@
 [Day 14: Extended Polymerization](https://adventofcode.com/2021/day/14)|✔️|✔️|[Day fourteen](https://github.com/hlim29/AdventOfCode2021/blob/master/Days/DayFourteen.cs)|
 [Day 15: Chiton](https://adventofcode.com/2021/day/15)|✔️|🏳️|[Day fifteen](https://github.com/hlim29/AdventOfCode2021/blob/master/Days/DayFifteen.cs)|
 [Day 17: Trick Shot](https://adventofcode.com/2021/day/17)|✔️|✔️|[Day seventeen](https://github.com/hlim29/AdventOfCode2021/blob/master/Days/DaySeventeen.cs)|
+[Day 20: Trench Map](https://adventofcode.com/2021/day/20)|✔️|✔️|[Day twenty](https://github.com/hlim29/AdventOfCode2021/blob/master/Days/DayTwenty.cs)|

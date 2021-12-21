@@ -82,6 +82,10 @@ namespace AdventOfCode
                         var pixels = new DayTwenty();
                         pixels.Process();
                         break;
+                    case 21:
+                        var twentyone = new DayTwentyOne();
+                        twentyone.Process();
+                        break;
                     case 0:
                         Environment.Exit(0);
                         break;

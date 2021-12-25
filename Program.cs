@@ -86,6 +86,11 @@ namespace AdventOfCode
                         var twentyone = new DayTwentyOne();
                         twentyone.Process();
                         break;
+                    case 25:
+                        Console.WriteLine($"Merry Christmas!");
+                        var christmas = new DayTwentyFive();
+                        christmas.Process();
+                        break;
                     case 0:
                         Environment.Exit(0);
                         break;

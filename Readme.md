@@ -27,3 +27,4 @@
 [Day 17: Trick Shot](https://adventofcode.com/2021/day/17)|✔️|✔️|[Day seventeen](https://github.com/hlim29/AdventOfCode2021/blob/master/Days/DaySeventeen.cs)|
 [Day 20: Trench Map](https://adventofcode.com/2021/day/20)|✔️|✔️|[Day twenty](https://github.com/hlim29/AdventOfCode2021/blob/master/Days/DayTwenty.cs)|
 [Day 21: Dirac Dice](https://adventofcode.com/2021/day/21)|✔️|🏳️|[Day twenty one](https://github.com/hlim29/AdventOfCode2021/blob/master/Days/DayTwentyOne.cs)|
+[Day 25: Sea Cucumber](https://adventofcode.com/2021/day/25)|✔️|🏳️|[Day twenty five](https://github.com/hlim29/AdventOfCode2021/blob/master/Days/DayTwentyFive.cs)|
